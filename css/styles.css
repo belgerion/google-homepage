@@ -1,0 +1,42 @@
+.topButton {
+	width: 20px; 
+	margin: 15px;
+}
+
+.topButton a {
+	color: #000;
+}
+
+.signIn {
+	border: 1px solid #4285f4; 
+	background-color: #4285f4; 
+	border-radius: 2px; 
+	width: 81px; 
+	margin: 10px; 
+	line-height: 28px;
+}
+
+.signIn a {
+	 color: white;
+}
+
+.searchArea {
+	margin: 200px 45px 0;
+}
+
+.search {
+	width:600px; 
+	margin: 35px 0 0 -150px; 
+	height: 40px; 
+	border: 1px solid #d9d9d9;
+}
+
+.lowerButton {
+	margin: 20px 0; 
+	padding: 5px 40px; 
+	background-color: #f1f1f1;
+}
+
+.lowerButton a {
+	color: #757575;
+}
